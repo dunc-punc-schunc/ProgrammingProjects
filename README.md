@@ -13,7 +13,7 @@ Simple show of inputing nouns, verbs and adjectives to make a silly story. Will 
 ## Class Diagram:
 
 # Programming Project #2: ASCIIsweeper
-A mockup of minesweeper, using ASCII characters for all aspects of the project. Created by Duncan Kyle.
+A mockup of minesweeper, using ASCII characters for all aspects of the project. 16x16 board with full gameplay functionality. Created by Duncan Kyle.
 
 ## GUI Image #1: Start Screen
 ![Minesweeper Start Screen]()
