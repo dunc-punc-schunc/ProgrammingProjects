@@ -2,7 +2,7 @@
 DESC OF FIRST PROJECT
 
 ## GUI Image #1:
-! [Start Screen]()
+![Start Screen]()
 
 ## GUI Image #2:
 
