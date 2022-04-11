@@ -7,7 +7,7 @@ Simple show of inputing nouns, verbs and adjectives to make a silly story. Will 
 ## GUI Image #2: Gameplay
 ![MadLibs Gameplay]()
 
-## GUI Image #3: Gameplay 2
+## GUI Image #3: Gameplay (cont.)
 ![MadLibs Gameplay2]()
 
 ## Class Diagram:
