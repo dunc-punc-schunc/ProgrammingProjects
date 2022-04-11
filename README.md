@@ -11,7 +11,7 @@ Simple show of inputing nouns, verbs and adjectives to make a silly story. Will 
 ![MadLibs Gameplay2]()
 
 ## Class Diagram:
-![MadLibs Class Diagram](ProgrammingProjects/images/MLclass.png)
+![MadLibs Class Diagram](/images/MLclass.png)
 
 # Programming Project #2: ASCIIsweeper
 A mockup of minesweeper, using ASCII characters for all aspects of the project. 16x16 board with full gameplay functionality. Created by Duncan Kyle.
