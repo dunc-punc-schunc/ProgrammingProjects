@@ -17,7 +17,7 @@ Simple show of inputing nouns, verbs and adjectives to make a silly story. Will 
 A mockup of minesweeper, using ASCII characters for all aspects of the project. 9x9 board with full gameplay functionality. Created by Duncan Kyle.
 
 ## GUI Image #1: Start Screen
-![Minesweeper Start Screen]()
+![Minesweeper Start Screen](/images/MSstart.png)
 
 ## GUI Image #2: Gameplay
 ![Minesweeper Gameplay]()
