@@ -2,7 +2,7 @@
 Simple show of inputing nouns, verbs and adjectives to make a silly story. Will have multiple stories to choose from. Created by Duncan Kyle.
 
 ## GUI Image #1: Start Screen
-![MadLibs Start Screen]()
+![MadLibs Start Screen](/images/MLstart.png)
 
 ## GUI Image #2: Gameplay
 ![MadLibs Gameplay]()
