@@ -1,0 +1,4 @@
+It was <<FOOD>> day at school, and <<NAME>> was super <<EMOTION>> for lunch. But when they went outside to eat, a <<NOUN1>> stole their <<FOOD>>! <<NAME>> chased the <<NOUN1>> all over school. They <<VERB1>>, <<VERB2>>, and <<VERB3>> through the playground. Then they tripped on their <<NOUN2>> and the <<NOUN1>> escaped! Luckily, <<NAME>>’s friends were willing to share their <<FOOD>> with them.
+line 2
+line 3
+line 4
