@@ -1,9 +1,7 @@
 # C++: MadLibs
-Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from.
+Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from. Can be downloaded [here](/apps/MadLibs.zip)
 
 Created by Duncan Kyle.
-
-[Can be downloaded here](/apps/MadLibs.zip)
 
 ## GUI Image #1: Start Screen
 ![MadLibs Start Screen](/images/MLstart.png)
