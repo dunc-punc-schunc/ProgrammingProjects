@@ -17,4 +17,4 @@ Created by Duncan Kyle.
 ## Class Diagram:
 ![MadLibs Class Diagram](/images/MLclass.png)
 
-[Send me an email](mailto:real.duncpunc@gmail.com?subject=[GitHub])
+Feel free to send me an email [here](mailto:real.duncpunc@gmail.com?subject=[GitHub])
