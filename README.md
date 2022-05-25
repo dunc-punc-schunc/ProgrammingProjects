@@ -1,5 +1,5 @@
 # C++: MadLibs
-Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from. Can be downloaded [here](/apps/MadLibs.zip)
+Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from. Can be downloaded [here](/apps/MadLibs.zip).
 
 Created by Duncan Kyle.
 
@@ -15,4 +15,4 @@ Created by Duncan Kyle.
 ## Class Diagram:
 ![MadLibs Class Diagram](/images/MLclass.png)
 
-Feel free to send me an email [here](mailto:real.duncpunc@gmail.com?subject=[GitHub])
+Feel free to send me an email [here](mailto:real.duncpunc@gmail.com?subject=[GitHub]).
