@@ -1,6 +1,7 @@
-# Programming Project #1: MadLibs
-Simple show of inputing nouns, verbs and adjectives to make a silly story. Will have multiple stories to choose from.
+# C++: MadLibs
+Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from.
 Created by Duncan Kyle.
+! [Can be downloaded here](/apps/MadLibs.zip)
 
 ## GUI Image #1: Start Screen
 ![MadLibs Start Screen](/images/MLstart.png)
