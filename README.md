@@ -1,7 +1,7 @@
 # C++: MadLibs
 Simple show of inputing and replacing words to create an infinite amount of stories. Has multiple base stories to choose from.
-Created by Duncan Kyle.
-! [Can be downloaded here](/apps/MadLibs.zip)
+\nCreated by Duncan Kyle.
+\n! [Can be downloaded here](/apps/MadLibs.zip)
 
 ## GUI Image #1: Start Screen
 ![MadLibs Start Screen](/images/MLstart.png)
@@ -17,7 +17,7 @@ Created by Duncan Kyle.
 
 # Programming Project #2: ASCIIsweeper
 A mockup of minesweeper, using ASCII characters for all aspects of the project. 9x9 board with full gameplay functionality.
-Created by Duncan Kyle.
+\nCreated by Duncan Kyle.
 
 ## GUI Image #1: Start Screen
 ![Minesweeper Start Screen](/images/MSstart.png)
