@@ -3,7 +3,7 @@ Simple show of inputing and replacing words to create an infinite amount of stor
 
 Created by Duncan Kyle.
 
-![Can be downloaded here](/apps/MadLibs.zip)
+[Can be downloaded here](/apps/MadLibs.zip)
 
 ## GUI Image #1: Start Screen
 ![MadLibs Start Screen](/images/MLstart.png)
